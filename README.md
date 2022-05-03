@@ -6,4 +6,4 @@ Los Dashboard Realizados en Power BI se colocaran aqui
 [Sales](https://app.powerbi.com/view?r=eyJrIjoiNTZkOWJlODYtOTVkNC00ODU2LWEwYjItNTNhNDE3ZGJhODVhIiwidCI6IjY1MTgxYWE4LTI5NTgtNDE2ZC05MWEwLTEwODAzMzE4NWUxZiIsImMiOjR9)
 
 * Analisis de las denuncias realizadas por las diferentes comunas en el año 2019
-[Denuncias](https://app.powerbi.com/view?r=eyJrIjoiMTljMzM0YWMtODAyYy00ZDgzLWFlYmEtZmVhOGE4YTg2NTAzIiwidCI6IjY1MTgxYWE4LTI5NTgtNDE2ZC05MWEwLTEwODAzMzE4NWUxZiIsImMiOjR9)
+[Denuncias](https://app.powerbi.com/view?r=eyJrIjoiMTljMzM0YWMtODAyYy00ZDgzLWFlYmEtZmVhOGE4YTg2NTAzIiwidCI6IjY1MTgxYWE4LTI5NTgtNDE2ZC05MWEwLTEwODAzMzE4NWUxZiIsImMiOjR9&pageName=ReportSection)
