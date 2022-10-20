@@ -6,5 +6,5 @@ Los Dashboard Realizados en Power BI se colocaran aqui
   [Sales](https://app.powerbi.com/view?r=eyJrIjoiYTQ0Njc4MGQtOTFkMC00YmUxLWEwODctZTU5NzFlYzgyYmVlIiwidCI6IjY1MTgxYWE4LTI5NTgtNDE2ZC05MWEwLTEwODAzMzE4NWUxZiIsImMiOjR9)
 
 
-* Analisisi comparativo de ventas entre tiendas: teniendo en cuenta las ventas y crecimiento porcentual de cada una de ellas
+* Analisis comparativo de ventas entre tiendas: teniendo en cuenta las ventas y crecimiento porcentual de cada una de ellas
   [Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzZjZjc2ZGQtYWU5OS00NjA4LTkyYzItMWVmY2M4N2JmMGEzIiwidCI6IjY1MTgxYWE4LTI5NTgtNDE2ZC05MWEwLTEwODAzMzE4NWUxZiIsImMiOjR9)
